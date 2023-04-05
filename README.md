@@ -10,11 +10,11 @@ Creates a .TRASH directory
 renames .vimrc to .bup_vimrc
 Adds the statement 'source ~/.dotfiles/etc/bashrc_custom to the .bashrc file
 
-##cleanup.sh
+## cleanup.sh
 This script reverses whatever is done in the 'linux.sh' script
 
-##Makefile
+## Makefile
 this makefile runs the scripts
 
-##bashrc_custom
+## bashrc_custom
 Custom command alias'/configurations
